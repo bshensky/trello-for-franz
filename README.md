@@ -15,7 +15,7 @@ A service to receive Trello notifications in [Franz](http://meetfranz.com/)
 
 ## Requirements
 
-Franz 4.0.3 +
+- Franz 4.0.3 +
 
 
 ## Contributors
