@@ -25,4 +25,4 @@ A service to receive Trello notifications in [Franz](http://meetfranz.com/)
 
 ## License
 
-Trello for Franz is licensed under [The MIT License (MIT)](LICENSE.md).
+Trello for Franz is licensed under [The MIT License (MIT)](LICENSE.md). 
