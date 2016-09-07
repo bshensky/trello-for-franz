@@ -1,0 +1,25 @@
+
+#header{
+	background: #fff !important;
+}
+
+.header-btn,
+.icon-lg.light{
+	color: #848484 !important;
+}
+
+.member {
+	border-radius: 30px !important;
+}
+
+.header-boards-button,
+.header-search,
+.header-logo,
+.js-open-add-menu,
+.js-open-header-info-menu {
+	display: none !important;
+}
+
+.member-notifications-view {
+	max-width: 800px !important;
+}
