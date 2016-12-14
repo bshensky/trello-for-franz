@@ -3,7 +3,7 @@
   "version": "0.1",
   "description": "Trello notifications",
   "main": "index.js",
-  "author": "Larafellas",
+  "author": "Appstract",
   "license": "MIT",
   "config": {
     "serviceURL": "https://trello.com/login?returnUrl=/{teamID}/notifications",
