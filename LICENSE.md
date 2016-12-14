@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 
-Copyright (c) 2016 Larafellas <https://github.com/larafellas>
+Copyright (c) 2016 Appstract <https://github.com/appstract>
 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
