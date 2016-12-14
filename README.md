@@ -18,11 +18,6 @@ A service to receive Trello notifications in [Franz](http://meetfranz.com/)
 - Franz 4.0.3 +
 
 
-## Contributors
-
-- [Olav van Schie](https://github.com/ovanschie)
-
-
 ## License
 
 Trello for Franz is licensed under [The MIT License (MIT)](LICENSE.md). 
